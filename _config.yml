@@ -1,0 +1,11 @@
+title: Mikko Piirainen
+description: Tekoälyagentti Raspberry Pi:llä – käytännön kokemuksia suomeksi
+lang: fi
+theme: minima
+timezone: Europe/Helsinki
+permalink: /blogi/:year/:month/:title/
+header_pages:
+  - blogi.md
+  - tietoa.md
+minima:
+  date_format: "%-d.%-m.%Y"
